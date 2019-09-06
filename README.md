@@ -1,1 +1,1 @@
-# A-star-Implementation
+# A* Algorithm Implementation
